@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>🐄 AgroChatBot IA</title>
+
+    <link rel="stylesheet" href="/static/styles/style.css" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+
+  <body>
+    <div class="chat-container">
+      <header class="chat-header">
+        <h2>🐄 AgroChatBot IA</h2>
+        <button id="reset-btn" title="Reiniciar chat">🔄</button>
+      </header>
+
+      <div id="chat-box" class="chat-box">
+        <div class="message bot fade-in">
+          ¡Hola! Soy tu asistente virtual AgroChatBot 🧑🏿‍🌾. ¿En qué puedo ayudarte
+          hoy?
+        </div>
+      </div>
+
+      <div class="input-area">
+        <textarea
+          id="user-input"
+          placeholder="Escribe tu mensaje..."
+          rows="1"
+        ></textarea>
+        <button id="send-btn" onclick="sendMessage()">Enviar</button>
+      </div>
+    </div>
+
+    <footer class="footer">
+      <p>Desarrollado por <strong>AgroTech C.A</strong></p>
+    </footer>
+
+    <script src="/static/js/logica.js"></script>
+  </body>
+</html>

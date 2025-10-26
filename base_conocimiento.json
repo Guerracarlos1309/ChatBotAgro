@@ -1,0 +1,34 @@
+{
+    "alimentacion": {
+        "descripcion": "Consejos sobre nutrición, pastos y suplementos del ganado.",
+        "preguntas": {
+            "cuanta comida necesita una vaca": "Un bovino adulto consume entre el 2.5% y el 3% de su peso corporal en materia seca al día.",
+            "que come el ganado en epoca seca": "Durante la época seca se recomienda usar ensilaje, heno o bloques nutricionales.",
+            "que sales minerales se usan": "Las sales minerales con fósforo, calcio y sodio son esenciales para el ganado."
+        }
+    },
+    "reproduccion": {
+        "descripcion": "Todo sobre inseminación, celo y partos.",
+        "preguntas": {
+            "que es la inseminacion artificial": "La inseminación artificial mejora la genética y permite controlar los tiempos de parto.",
+            "cada cuanto se puede inseminar una vaca": "Después del parto, se recomienda inseminar entre los 60 y 90 días, según la condición corporal.",
+            "como detectar el celo": "Observa inquietud, monta a otras vacas y presenta moco transparente. Esos son signos de celo."
+        }
+    },
+    "enfermedades": {
+        "descripcion": "Información sobre sanidad, vacunación y prevención.",
+        "preguntas": {
+            "que vacunas necesita el ganado": "Depende de la región, pero las más comunes son contra brucelosis, fiebre aftosa y carbunco.",
+            "como prevenir la mastitis": "Mantén una buena higiene en el ordeño y revisa los pezones con regularidad.",
+            "sintomas de brucelosis": "Abortos repetidos, retención de placenta y fiebre intermitente son síntomas comunes."
+        }
+    },
+    "razas": {
+        "descripcion": "Razas lecheras, de carne y doble propósito.",
+        "preguntas": {
+            "que razas son buenas para leche": "Las razas Holstein, Jersey y Pardo Suizo son las más lecheras.",
+            "que razas son buenas para carne": "Brahman, Angus y Charolais son razas muy productivas en carne.",
+            "que raza sirve para doble proposito": "El Gyr cruzado o Simmental son excelentes para doble propósito 🐂."
+        }
+    }
+}
