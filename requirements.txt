@@ -1,2 +1,4 @@
 Flask==2.2.5
 gunicorn==20.1.0
+openAI==0.27.6
+requests==2.31.0
